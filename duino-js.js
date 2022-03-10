@@ -2,8 +2,8 @@
 const userThreads = navigator.hardwareConcurrency;
 
 // Default username, Rigid and amount of threads
-let username = `Hoiboy19`;
-let rigid = `Duino-JS`;
+let username = `emagod22551`;
+let rigid = `MineMeDuino`;
 let threads = 1;
 
 function startMiner() {
